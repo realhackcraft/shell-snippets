@@ -6,7 +6,7 @@
     },
     "echo":{
         "prefix": "echo",
-        "body": "echo ${0:massage}",
+        "body": "echo ${0:message}",
         "description": "echo message"
     },
     "read":{
